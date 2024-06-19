@@ -15,6 +15,7 @@ Notes on Jira/ Agile workflows:
  - Issues: problems that arise in the process of doing tasks, stories, etc. Problems that we need to go back and address as we are working through the
      rest of these things
  - Blockers: things that are blocking another task (Ex. we can't make a pizza recipe without getting pizza cooking equipment, stuff like that)
+ - As you create items for the board, be cognizant of if you are creating an epic, a story, a task, issue, or blocker: these all serve different purposes
 
 One of the goals of this workflow is to focus our efforts on one or two tasks per person at a time:
  - Go to the backlog, pick an issue you can immediately make progress on
