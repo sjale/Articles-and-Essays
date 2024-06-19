@@ -19,9 +19,28 @@ Notes on Jira/ Agile workflows:
 One of the goals of this workflow is to focus our efforts on one or two tasks per person at a time:
  - Go to the backlog, pick an issue you can immediately make progress on
  - Assign it to yourself (or others), move it from the backlog into the To-Do column on the board
- - When you actually start working on it and are actively working on it, move it to the In Progess column on the board
+ - When you actually start working on it and are actively working on it, move it to the In Progess column on the board. Make comments to document
+     progress, let people know the status of things, discuss issues and record ideas, and to remind yourself of where you were at
  - As issues arise in the process of working on things, note the issue, link it to the task/ story/ epic (whichever is appropriate), and move that
      issue to the issues column on the board (or list blockers as they come up, linking them to the task that they are blocking)
+
+Remote video meetings: confluence on Jira, MS Teams, Zoom, whatever
+
+Live editing documents, collaboratively editing stuff: idk Pages, Google docs, whatever works. Md files also would be fine and are accessible from any
+text editor at all, just with not notes highlighting and comments and stuff
+
+Tracking changes to documents: git
+
+
+IMMEDIATE STEPS:
+ - Create a business email for:
+     - The business (something like jabronispizza@gmail.com or jabronis@gmail.com or whatever looks good)
+     - An account for Stewart and Sophia each
+     - Use that email to build a Slack account
+     - [Issue] Eventually, create a new Atlassian account and repo and move our current stuff to that account, just so that it's all shared
+     - Download Obsidian, upload documents and research in a logical and organized way, ensure that we can share and edit stuff together
+ - [Issue] Put these as tasks on Jira board when able, under communication organization/ infrastructure epic as stories 
+
 
 
 
