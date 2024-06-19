@@ -42,7 +42,7 @@ IMMEDIATE STEPS:
      - Use that email to build a Slack account
      - [Issue] Eventually, create a new Atlassian account and repo and move our current stuff to that account, just so that it's all shared
      - Download Obsidian, upload documents and research in a logical and organized way, ensure that we can share and edit stuff together
- - [Issue] Put these as tasks on Jira board when able, under communication organization/ infrastructure epic as stories 
+ - ~~[Issue] Put these as tasks on Jira board when able, under communication organization/ infrastructure epic as stories~~
 
 
 
