@@ -15,6 +15,9 @@ Notes on Jira/ Agile workflows:
  - Issues: problems that arise in the process of doing tasks, stories, etc. Problems that we need to go back and address as we are working through the
      rest of these things
  - Blockers: things that are blocking another task (Ex. we can't make a pizza recipe without getting pizza cooking equipment, stuff like that)
+ - In Jira, I like to have it open in an internet browser, maximum size it, and then have the Timeline -> Backlog -> Board views open in their own
+     tabs in that order, so you can see the totality of the project at once
+ - We also need to consider whether we will be using timelines or just free balling it
 
 One of the goals of this workflow is to focus our efforts on one or two tasks per person at a time:
  - Go to the backlog, pick an issue you can immediately make progress on
