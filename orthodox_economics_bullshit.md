@@ -1,3 +1,13 @@
+labor costs shouldnt be differential accross nations: it isnt part of the free trade justifications, and it makes no sense
+
+banks could very well be the source of economic groeth that we have all been searching for, an artificial gradient that artificially increases the money supply, making the rest of the productive growth possible. 
+
+entreprenuer theory also seems bullshit, and mostly amounts to arbitrage now, which should mostly not exist by economic laws --- the only types of argitrage that exist supuld come from externalities
+
+how to defeat corruotion? why does corruption happen in efonomic gheoru?
+
+purchasing power parity likely does add correctly according to the theories
+
 04. The Bullshit of Orthodox Economics
 
 Possessions, Private Property, Capital, and the Land  
