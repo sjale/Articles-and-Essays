@@ -1,3 +1,5 @@
+health insurance is nonsense fundamnetally--is it more profitable to a workforce that has teeth? that has eyesight? that is alive? the entire framework is bunk, without talking about morals
+
 labor costs shouldnt be differential accross nations: it isnt part of the free trade justifications, and it makes no sense
 
 banks could very well be the source of economic groeth that we have all been searching for, an artificial gradient that artificially increases the money supply, making the rest of the productive growth possible. 
