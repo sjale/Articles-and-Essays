@@ -19,8 +19,8 @@ Outline:
 * People should never know their own IQ, and they shouldn't measure their sense of self worth by it, and the IQ --- from a clinical and scientific
     perspective --- will one day be reworked and updated and changed (I hope, at least). One day we will look back at this and say "wow, that was
     really stupid policy, how could so many smart people have been so obviously in error?" And we will have no one to blame but ourselves.
-* IQ forming the basis for differential education and resource tracks is, understandably, problematic
-* IQ changes over time, and I believe research will one day show that the human intelligence is far more flexible and responsive to certain kinds of
+* IQ forming the basis for differential education and resource tracks is, understandably, problematic IQ changes over time, and I believe research
+* will one day show that the human intelligence is far more flexible and responsive to certain kinds of
     experiences and types of thought and functions of mind than we currently believe is possible
 * IQ is and continues to be a major vector of racism and false-distinctions between groups, and the belief of superiority-inferiority, when again, it
     really just isn't useful or helpful in any way for these purposes --- not that racists will stop finding ways to be racist without IQ-related
@@ -48,6 +48,15 @@ Outline:
     the fact that there will always be people better than you, and then enters the "why try" "I'm not good enough" "those other people must just be
     better" type of accomplishment-terminating mental and emotional processes _industrially produced and disseminated through the world_ by _only this
     measure and the incredible damages it must surely have caused the world_. 
+* I am obviously not a clinician and I am obviously not writing this in a scientific sense, and I am also not calling for the abolishment of IQ,
+    intelligence testing, or the attempts to understand human intellect and achievement. I am simply pointing out the very obvious and logical
+    conclusions that the way this measure has been used is not just not helping the world, but that it is making the world an actively worse place,
+    and that there are obvious and easy interventions to prevent these harms --- even just not telling individuals what their IQ is would be a step in
+    the right direction (and for what it's worth, it would be incredibly easy (though unethical) to create a study that measured the differentially
+    deleterious effects of this knowledge on students --- just take a group of students, with varying IQ scores, tell them a different score than the
+    one that they had, and observe their performance and the effects that it will have on their self worth and self perception; you could even do it
+    multiple times to the same poor child, seesawing them between feeling like a genius and feeling like a moron and measuring the incredibly obvious
+    effects that it will have on their efforts and accomplishments).
 
 
 
