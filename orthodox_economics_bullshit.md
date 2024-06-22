@@ -1,3 +1,5 @@
+the concept of onflation flies in the face if businesses maximizing profita by maximizing prices and countermands the entire price-supply signal 
+
 health insurance is nonsense fundamnetally--is it more profitable to a workforce that has teeth? that has eyesight? that is alive? the entire framework is bunk, without talking about morals
 
 labor costs shouldnt be differential accross nations: it isnt part of the free trade justifications, and it makes no sense
